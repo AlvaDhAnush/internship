@@ -16,3 +16,13 @@ a:visited
 {
     color: pink;
 }
+table{
+    width: 100%;
+}
+table,th,td{
+    background-color: black;
+    border: 1px solid white;
+    border-collapse: collapse;
+    color: white;
+    text-align: center;
+}
